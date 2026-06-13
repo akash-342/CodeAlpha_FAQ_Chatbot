@@ -68,11 +68,6 @@ streamlit run app.py
 * What is Python?
 * What is NLP?
 
----
-
-## 📸 Preview
-
-Add screenshots here after completing the UI.
 
 ---
 
