@@ -1,0 +1,26 @@
+streamlit
+pandas
+scikit-learn
+
+Steps:
+
+    1. Create file:
+        requirements.txt
+
+    2. Paste code
+    3. Save
+
+    4. Install:
+        pip install -r requirements.txt
+
+    5. Run:
+        streamlit run app.py
+
+Final Project Structure:
+
+CodeAlpha_FAQ_Chatbot
+│
+├── app.py
+├── faq.csv
+├── requirements.txt
+└── README.md
